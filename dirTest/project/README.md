@@ -5,7 +5,7 @@ codigos git, luego se ingreso al directorio dirTest/project y modificar el archi
 el prfesor, y luego actualizar dichos cambios usando los commit y que estos se vieran presentes en el repositorio 
 de la evaluación.
 
-
+![Image text](https://github.com/hacUPB/evaluacion-1-Nivekke/blob/main/dirTest/project/Gato.webp)
 
 https://www.freepik.es/fotos-vectores-gratis/gatos
 
