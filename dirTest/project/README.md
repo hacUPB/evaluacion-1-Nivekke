@@ -1,27 +1,23 @@
+EVALUACION 1
 
-In this directory, you should write the program `wcat.c` and compile it into
-the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
+En esta evaluación se nos dio un repositorio el cual debiamos clonar en nuestro computador personal usando los
+codigos git, luego se ingreso al directorio dirTest/project y modificar el archivo wcat.c con el codigo dado por
+el prfesor, y luego actualizar dichos cambios usando los commit y que estos se vieran presentes en el repositorio 
+de la evaluación.
 
-After doing so, you can run the tests from this directory by running the
-`test-wcat.sh` script. If all goes well, you will see:
+![Image text](https://github.com/hacUPB/evaluacion-1-Nivekke/blob/main/dirTest/project/Gato.webp)
 
-```sh
-prompt> ./test-wcat.sh
-test 1: passed
-test 2: passed
-test 3: passed
-test 4: passed
-test 5: passed
-test 6: passed
-test 7: passed
-prompt>
-```
+https://www.freepik.es/fotos-vectores-gratis/gatos
 
-The `test-wcat.sh` script is just a wrapper for the `run-tests.sh` script in
-the `tester` directory of this repository. This program has a few options; see
-the relevant
-[README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
-for details.
+Clonar un repositorio 
+- git clone (link del repositorio)
 
+Adicionar el archivo wcat.c al STAGE
+- git add wcat.c
 
+Realizar un commit
+- git commit -m "editado wcat.c"
+
+Sincronizar con el repositorio remoto
+- git push
 
